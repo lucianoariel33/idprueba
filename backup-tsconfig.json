@@ -16,11 +16,8 @@
 
     /* Linting */
     "strict": true,
-    // ================================================
-    // 👇 Opción 4: Desactiva errores de variables no usadas (AGREGADO)
-    "noUnusedLocals": false,       // <-- Esto evita TS6133 para variables
-    "noUnusedParameters": false,   // <-- Esto evita TS6133 para parámetros
-    // ================================================
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
 
     "baseUrl": ".",

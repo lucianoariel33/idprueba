@@ -25,15 +25,15 @@ import DiscordIcon from "@/icons/DiscordIcon.vue";
         >
           <CardHeader>
             <CardTitle class="text-4xl md:text-5xl font-bold">
-              <Component
+              <!-- <Component
                 class="w-20 h-20 m-auto mb-4"
                 :is="DiscordIcon"
-              />
-              Ready to join this
+              /> -->
+              ¿Queres estar al tanto de lo que hacemos en 
               <span
                 class="text-transparent bg-gradient-to-r from-[#D247BF] to-primary bg-clip-text"
               >
-                Community?
+                Inteligencia Digital?
               </span>
             </CardTitle>
           </CardHeader>
@@ -48,7 +48,7 @@ import DiscordIcon from "@/icons/DiscordIcon.vue";
                 href="https://discord.com/"
                 target="_blank"
               >
-                Join Discord
+                Suscribite
               </a>
             </Button>
           </CardFooter>

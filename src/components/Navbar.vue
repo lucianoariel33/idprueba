@@ -28,6 +28,8 @@ import { Separator } from "@/components/ui/separator";
 import { ChevronsDown, Menu } from "lucide-vue-next";
 import GithubIcon from "@/icons/GithubIcon.vue";
 import ToggleTheme from "./ToggleTheme.vue";
+import instagramicon from "@/icons/InstagramIcon.vue";
+import Instagramicon from "@/icons/InstagramIcon.vue";
 
 interface RouteProps {
   href: string;
@@ -93,7 +95,7 @@ const isOpen = ref<boolean>(false);
       <ChevronsDown
         class="bg-gradient-to-tr from-primary via-primary/70 to-primary rounded-lg w-9 h-9 mr-2 border text-white"
       />
-      ShadcnVue</a
+      ID</a
     >
     <!-- Mobile -->
     <div class="flex items-center lg:hidden">
@@ -215,7 +217,7 @@ const isOpen = ref<boolean>(false);
           href="https://github.com/leoMirandaa/shadcn-vue-landing-page.git"
           target="_blank"
         >
-          <GithubIcon class="size-5" />
+          <InstagramIcon class="size-5" />
         </a>
       </Button>
     </div>

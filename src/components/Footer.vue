@@ -149,13 +149,13 @@ import Separator from "./ui/separator/Separator.vue";
       <Separator class="my-6" />
       <section className="">
         <h3 class="">
-          &copy; 2024 Designed and developed by
+          &copy; 2025 Designed and developed by
           <a
             target="_blank"
-            href="https://github.com/leoMirandaa"
+            href="nex.com.ar"
             className="text-primary transition-all border-primary hover:border-b-2"
           >
-            Leo Miranda
+           Nex Studio
           </a>
         </h3>
       </section>

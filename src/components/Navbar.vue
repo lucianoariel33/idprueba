@@ -52,10 +52,10 @@ const routeList: RouteProps[] = [
     href: "#contact",
     label: "Contact",
   },
-  {
-    href: "#faq",
-    label: "FAQ",
-  },
+  // {
+  //   href: "#faq",
+  //   label: "FAQ",
+  // },
 ];
 
 const featureList: FeatureProps[] = [

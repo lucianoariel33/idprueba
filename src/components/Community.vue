@@ -29,7 +29,7 @@ import DiscordIcon from "@/icons/DiscordIcon.vue";
                 class="w-20 h-20 m-auto mb-4"
                 :is="DiscordIcon"
               /> -->
-              ¿Queres estar al tanto de lo que hacemos en 
+              ¿Querés estar al tanto de lo que hacemos en 
               <span
                 class="text-transparent bg-gradient-to-r from-[#D247BF] to-primary bg-clip-text"
               >
